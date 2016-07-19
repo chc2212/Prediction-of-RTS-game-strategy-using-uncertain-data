@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ExampleProjects">
+</Property><Property Name="Solution File" Value="C:\Users\Steve Cho\Desktop\aa\2014년3월-7월 논문\2014년3월-7월 논문\StarCraft2014_CIG\리플레이에서_유닛위지_개수_뽑아내는프로그램_옵저버빼는기능지움_보이는유닛만받게함_v5.13\ExampleProjects.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Steve Cho\Desktop\aa\2014년3월-7월 논문\2014년3월-7월 논문\StarCraft2014_CIG\리플레이에서_유닛위지_개수_뽑아내는프로그램_옵저버빼는기능지움_보이는유닛만받게함_v5.13\ExampleProjects.suo">
+</Property><Property Name="Date" Value="Saturday, July 16, 2016">
+</Property><Property Name="Time" Value="1:27 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ExampleProjects.sln" Description="File successfully backed up as C:\Users\Steve Cho\Desktop\aa\2014년3월-7월 논문\2014년3월-7월 논문\StarCraft2014_CIG\리플레이에서_유닛위지_개수_뽑아내는프로그램_옵저버빼는기능지움_보이는유닛만받게함_v5.13\ExampleProjects.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="ExampleProjects.suo" Description="File successfully backed up as C:\Users\Steve Cho\Desktop\aa\2014년3월-7월 논문\2014년3월-7월 논문\StarCraft2014_CIG\리플레이에서_유닛위지_개수_뽑아내는프로그램_옵저버빼는기능지움_보이는유닛만받게함_v5.13\ExampleProjects.suo.old">
+</Event><Event ErrorLevel="0" Project="ExampleAIModule" Source="ExampleAIModule\ExampleAIModule.vcproj" Description="Converting project file 'C:\Users\Steve Cho\Desktop\aa\2014년3월-7월 논문\2014년3월-7월 논문\StarCraft2014_CIG\리플레이에서_유닛위지_개수_뽑아내는프로그램_옵저버빼는기능지움_보이는유닛만받게함_v5.13\ExampleAIModule\ExampleAIModule.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ExampleAIModule" Source="ExampleAIModule\ExampleAIModule.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ExampleAIModule" Source="ExampleAIModule\ExampleAIModule.vcproj" Description="Done converting to new project file 'C:\Users\Steve Cho\Desktop\aa\2014년3월-7월 논문\2014년3월-7월 논문\StarCraft2014_CIG\리플레이에서_유닛위지_개수_뽑아내는프로그램_옵저버빼는기능지움_보이는유닛만받게함_v5.13\ExampleAIModule\ExampleAIModule.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ExampleAIModule" Source="ExampleAIModule\ExampleAIModule.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ExampleProjects.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ExampleProjects.sln" Description="Converted">
+</Event></UpgradeLog>
