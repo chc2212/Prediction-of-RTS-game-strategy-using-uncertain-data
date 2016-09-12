@@ -1,10 +1,10 @@
 # Prediction-of-RTS-game-strategy-using-uncertain-data
 
 #Overview of Method
-###Prediction using user replay data
+##Prediction using user replay data
 <img src="https://github.com/chc2212/Prediction-of-RTS-game-strategy-using-uncertain-data/blob/master/pic0.png" width="500">
 
-###Prediction using colledted data by scouting of AI bot
+##Prediction using colledted data by scouting of AI bot
 <img src="https://github.com/chc2212/Prediction-of-RTS-game-strategy-using-uncertain-data/blob/master/pic1.png" width="500" >
 
 #References
