@@ -1,5 +1,5 @@
 # Prediction-of-RTS-game-strategy-using-uncertain-data
-This is research project to develop AI bot which can predict enemy's strategy using uncertain data of enemy. We designed a navigation system for the AI bot to scout the opponent’s area and to collect data. We Applied the navigation system and various machine learning algorithms to predict an opponent’s strategy through replay data mining.
+This is research project to develop AI bot which can predict enemy's strategy using uncertain data of enemy. We designed a navigation system for the AI bot to scout the opponent’s area and to collect data. We Applied the navigation system and various machine learning algorithms to predict an opponent’s strategy through replay data mining. Also, we applied the method to human and AI bots replay data and anlayzed the effect of uncertain data when using machine learning. 
 
 #Overview of Method
 ##Prediction using user replay data
