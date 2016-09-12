@@ -9,10 +9,10 @@ This is research project to develop AI bot which can predict enemy's strategy us
 <img src="https://github.com/chc2212/Prediction-of-RTS-game-strategy-using-uncertain-data/blob/master/pic1.png" width="300" >
 
 #Results
-##Prediction using user replay data
+##Prediction using user replay data (see detail in [H.-C. Cho et al.])
 <img src="https://github.com/chc2212/Prediction-of-RTS-game-strategy-using-uncertain-data/blob/master/pic3.JPG" width="300">
 
-##Prediction using colledted data by scouting of AI bot
+##Prediction using colledted data by scouting of AI bot (see detail in [H.-C. Cho et al., 2012])
 <img src="https://github.com/chc2212/Prediction-of-RTS-game-strategy-using-uncertain-data/blob/master/pic4.png" width="300" >
 
 #References
