@@ -20,5 +20,5 @@ This is research project to develop AI bot which can predict enemy's strategy us
 <img src="https://github.com/chc2212/Prediction-of-RTS-game-strategy-using-uncertain-data/blob/master/pic4.png" width="300" >
 
 # References
-* **H.-C. Cho**, H.-S. Park, C.-Y. Kim and K.-J. Kim, “Investigation of the effect of “Fog of war” in the prediction of StarCraft strategy using machine learning,” ACM Computers in Entertainment. (In press)
-* [H.-S. Park, **H.-C. Cho**, K.-Y. Lee, and K.-J. Kim, “Prediction of early stage opponent strategy for StarCraft AI using scouting and machine learning,” Workshop at SIGGRAPH ASIA (Computer Gaming Track), pp. 7-12, 2012 ](http://cilab.sejong.ac.kr/home/lib/exe/fetch.php?media=public:paper:wasa_2012_park.pdf)
+* [**H.-C. Cho**, H.-S. Park, C.-Y. Kim and K.-J. Kim, “Investigation of the effect of “Fog of war” in the prediction of StarCraft strategy using machine learning,” ACM Computers in Entertainment, vol. 14, no. 1, Spring 2017. ] (http://dl.acm.org/citation.cfm?doid=3026722.2735384)
+* [H.-S. Park, **H.-C. Cho**, K.-Y. Lee, and K.-J. Kim, “Prediction of early stage opponent strategy for StarCraft AI using scouting and machine learning,” Workshop at SIGGRAPH ASIA (Computer Gaming Track), pp. 7-12, 2012. ](http://cilab.sejong.ac.kr/home/lib/exe/fetch.php?media=public:paper:wasa_2012_park.pdf)
